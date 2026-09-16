@@ -51,7 +51,7 @@
 ### 1. 下载
 
 ```bash
-git clone https://github.com/huluobo2237-pixel/boss-auto-apply.git
+git clone https://github.com/zerry17oct/InterviewCopilot.git
 ```
 
 或直接 `Code → Download ZIP` 解压。
@@ -115,8 +115,4 @@ src/
 
 ## 🤝 贡献
 
-欢迎 Issue 和 PR！如果这个项目帮到了你，点个 ⭐ Star 是对我最大的鼓励。
-
-## 📄 License
-
-[MIT](./LICENSE) © 2026
+如果这个项目帮到了你，点个 ⭐ Star 是对我最大的鼓励。
